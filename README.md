@@ -1,6 +1,6 @@
- Tribute Page 
+Tribute Page 
 
- Objective:
+Objective:
 
 Create a tribute page to honor the life and achievements of a notable individual, providing a brief overview of their life, accomplishments, and contributions.
 
