@@ -1,0 +1,107 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff8f0;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #ff6600;
+    color: white;
+    border-radius: 10px;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+header .tagline {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+/* Image Section */
+.image-section {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.image-section img {
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Biography Section */
+.biography {
+    background: #fff3e0;
+    padding: 20px;
+    border-left: 6px solid #ff6600;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+/* Achievements Section */
+.Achievements {
+    background: #fff3e0;
+    padding: 20px;
+    border-left: 6px solid #ff6600;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+.Achievements ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.Achievements li {
+    margin: 10px 0;
+    font-style: italic;
+}
+
+/* Quotes */
+.quotes {
+    padding: 20px;
+    background: #fffde7;
+    border-left: 6px solid #ffb300;
+    border-radius: 8px;
+}
+
+.quotes ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.quotes li {
+    margin: 10px 0;
+    font-style: italic;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 8px;
+    font-size: 0.9em;
+    color: #555;
+}
